@@ -1,7 +1,6 @@
 <?php
 
 # Version 2.3.0
-
 $lang['utilities_menu_icon'] = 'Icon';
 $lang['menu_builder'] = 'Menu Setup';
 $lang['main_menu'] = 'Main Menu';

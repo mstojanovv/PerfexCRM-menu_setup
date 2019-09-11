@@ -1,5 +1,6 @@
 <?php
 
+# Version 2.3.0
 $lang['utilities_menu_icon'] = 'Εικόνα';
 $lang['active_menu_items']   = 'Ενεργά στοιχεία του μενού';
 $lang['inactive_menu_items'] = 'Ανενεργά στοιχεία του μενού';
